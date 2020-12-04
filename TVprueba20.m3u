@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:0 tvg-logo="", France 24
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:0 tvg-logo="", DW
@@ -441,10 +439,10 @@ http://srregio.net/Sr_Regio151120/tp.php?c=1649&p=3&k=srregio&f=.m3u8
 http://srregio.net/Sr_Regio151120/tp.php?c=2091&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, FRANCE 24
 http://srregio.net/Sr_Regio151120/tp.php?c=2402&p=3&k=srregio&f=.m3u8  
+ 
 
- 
- 
- #EXTM3U
+
+#EXTM3U
 #EXTINF:0 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bob-esponja-un-he-roe-al-rescate-poster-1573676315.jpg", Bob Esponja Un Heroe al Rescate | REGIOFLIX
 http://regioflix.club/REGIO2020/151120nov/BobEsponjaUnHeroeAlRescateSRREGIO.NET.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="https://larryfire.files.wordpress.com/2020/09/hubiehalloween_vertical_alt_rgb_en-us20200924-6692-k4dpmi.jpg?w=580&h=859", Hubbie Halloween | REGIOFLIX
