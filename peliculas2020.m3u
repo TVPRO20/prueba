@@ -5926,7 +5926,9 @@ https://dl.dropboxusercontent.com/s/fezzhlyasrxkzax/SalynPM-Zootopia.mp4?dl=0
 
 
 #EXTM3U
-
+<
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/03/ruega.jpg?resize=600%2C900&ssl=1", Ruega por nosotros | REGIOFLIX
+http://ipeteve.com/REGIOFLIX100321/Ruega.por.nosotros.SrRegio.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="https://pelismaraton.com/poster/mortal-kombat.jpg", Mortal Kombat 2021 | REGIOFLIX
 http://ipeteve.com/REGIOFLIX100321/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg", Forrest Gump | REGIOFLIX
@@ -6009,6 +6011,11 @@ https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | REGIOFLIX  
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
+
+
+
+
 
 
 
