@@ -1,29 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DmNJwB/cruella1.jpg",Cruella (2021)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://occ-0-590-586.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABbJjdHixfNHqtum2vX6Ud1N-9c-nE88q4UHrUqd9WtvA9bD96yp_4Mhd17ci3z-RyvOYSSv1K6fVAeILDeEUbZF0OFcBrY-qvFcc.png?r=fde",El Conjuro 3|2021
+http://201.172.61.203:88/Peliculas/mkv/El%20Conjuro%203-%20El%20diablo%20me%20oblig%c3%b3%20a%20hacerlo%20(2021).mp4
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0DmNJwB/cruella1.jpg",Cruella (2021)
 https://archive.org/download/tinaco_20210528/Crue11a.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7rXn75/mini-6010556185be1.jpg",Raya y El Ultimo Dragon
-https://ikal.me/wl/?id=iIJQHhnAS8NuMzWW3pr6rwJ0w6jPfXUp
-#EXTINF:-1 tvg-logo="http://archive.org/download/images-4_202103/images%20%284%29.jpeg",ESPIAS A ESCONDIDAS
-http://archive.org/download/spymp4/spymp4.mp4
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cv0tnajw2c6turq/soul.jpg",Soul
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/cv0tnajw2c6turq/soul.jpg",Soul
 https://archive.org/download/soul.-2020/Soul.2020.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/khwF7r1/Unidos-2020.jpg",Unidos (2020)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/khwF7r1/Unidos-2020.jpg",Unidos (2020)
 https://dl.dropbox.com/s/t1a3k747pq93w3b/Unidos.2020.mp4
-#EXTINF:-1,Abominable (2019)
-http://compitv.info:8080/movie/LuisW01/Q3gTdLqACY/153213.mp4
-#EXTINF:-1,Coco (2017)
-http://compitv.info:8080/movie/LuisW01/Q3gTdLqACY/153379.mkv
 #EXTINF:-1 ,mascotas 2
 https://content.jwplatform.com/videos/JL07jp2o-raeJNV7L.mp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8sRdJzv/Vida-Secreta-Mascotas11.jpg",La vida secreta de tus mascotas
 http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/5.mp4
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHICAS PESADAS
+#EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",CHICAS PESADAS
 http://ia801403.us.archive.org/14/items/ciejrkr/ciejrkr.mp4
-
-#EXTINF:0 group-title="PELICULAS" tvg-logo="https://pelismaraton.com/poster/mortal-kombat.jpg", Mortal Kombat 2021
-http://ipeteve.com/REGIOFLIX100321/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
-#EXTINF:-1  tvg-logo="https://dam.smashmexico.com.mx/wp-content/uploads/2020/05/Justice-league-zack-snyder-cut-estreno-hbo-max-cover.jpg",Liga de la Justicia de Zack Snyder
-https://archive.org/download/dqjBR3Jx5q8/dqjBR3Jx5q8.ia.mp4
 #EXTINF:-1  tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2021/01/trailer-godzilla-vs-kong-960x720.jpg?mrf-size=m",KING KONG VS GODZILLA 2021
 https://vod-normal-global-cdn-z01.afreecatv.com/v3/afflv14/_definst_/mp4:save/afreeca/station/2021/0331/23/1617202499392311.mp4/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://cdnvos.lavoz.com.ar/sites/default/files/styles/box_128/public/nota_periodistica/principe_1614604250.jpg",2 America 2021
@@ -228,8 +217,6 @@ http://vod.tuxchannel.tv/peliculas/720/dino%20dana%20the%20movie%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/return%20of%20the%20tooth%20fairy%202020.mkv
 #EXTINF:-1 ,Godzilla
 https://archive.org/download/gopla-72p/Godzilla1.mp4
-#EXTINF:-1 ,zeised
-http://latiniptv.vip:8008/movie/VICTORCHILE12MESES/OSVALDOPRO0902/150014.mp4
 #EXTINF:-1 ,adescubierto
 http://appstv.us:25461/movie/1/2/5416.mp4
 #EXTINF:-1 ,el niño rey
@@ -254,8 +241,6 @@ http://vod.tuxchannel.tv/peliculas/720/lassie-eine%20abenteuerliche%20reise%2020
 http://vod.tuxchannel.tv/peliculas/720/captain%20underpants%20mega%20blissmas%202020.mkv
 #EXTINF:-1 ,increíble
 http://vod.tuxchannel.tv/peliculas/720/lincredibile%20storia%20dell%20isola%20delle%20rose%202020.mkv
-#EXTINF:-1 ,the grudge
-http://mytv.fun:8080/movie/danielasascha1/uu2oefj09s/671009.mkv
 #EXTINF:-1 ,el baile
 http://vod.tuxchannel.tv/peliculas/720/the%20prom%202020.mkv
 #EXTINF:-1 ,safety
@@ -266,8 +251,6 @@ http://vod.tuxchannel.tv/peliculas/720/im%20your%20woman%202020.mkv
 http://vod.tuxchannel.tv/peliculas/720/a%20trash%20truck%20christmas%202020.mkv
 #EXTINF:-1 ,intercambio
 http://vod.tuxchannel.tv/peliculas/720/the%20princess%20switch%20switched%20again%202020.mkv
-#EXTINF:-1 ,mascotas 2
-https://content.jwplatform.com/videos/JL07jp2o-raeJNV7L.mp4
 #EXTINF:-1 ,Merlin
 http://tux-vod.dynu.com/peliculas/720/jigsaw.mkv
 #EXTINF:-1 ,más aya de la luna
@@ -1462,8 +1445,6 @@ https://archive.org/download/infantiles_202009/La%20princesa%20Cisne%20una%20bod
 https://dl.dropbox.com/s/47ddz4lez7aia9u/la%20princesa%20y%20el%20sapo.mp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2h8sSJX/La-Sirenita.jpg",La Sirenita
 https://dl.dropbox.com/s/4yyk0ag4x7ts5z5/la%20sirenita.mp4
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8sRdJzv/Vida-Secreta-Mascotas11.jpg",La vida secreta de tus mascotas
-http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/5.mp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/fqMH2Db/Vida-Secreta-Mascotas.jpg",La vida secreta de tus mascotas 2
 http://archive.org/download/direcionaudiovisual/FOTOS%20DE%20MI%20MASCOTA2.mp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Z2V2S9z/Las-locuras-del-emperador-kronk.jpg",Las locuras de kronk
@@ -1580,8 +1561,6 @@ https://archive.org/download/00400_20190920/00400.mkv
 https://ia601402.us.archive.org/21/items/1e08_20191210/cbc0.mp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HTsXL0B/Sonic-La-Pelicula.jpg",Sonic: La Pelicula
 https://archive.org/download/50-n-1-c/50N1C.mp4
-#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/cv0tnajw2c6turq/soul.jpg",Soul
-https://archive.org/download/soul.-2020/Soul.2020.mkv
 #EXTINF:-1  tvg-logo="https://i.ibb.co/xmZR747/Space-Jam-el-juego-del-siglo.jpg",Space Jam el juego del siglo
 https://dl.dropbox.com/s/p1l2cs9njbqbawk/space%20jam.mp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/nPfRqwX/Spycies.jpg",Spycies
@@ -1614,8 +1593,6 @@ https://archive.org/download/tour_20200413/tour.mkv
 https://archive.org/download/4b1_20200101/514.mp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tQmzT64/peli-huevos-poster-1.jpg",Una Película de Huevos
 https://archive.org/download/534_20191230/b76.mp4
-#EXTINF:-1  tvg-logo="https://i.ibb.co/khwF7r1/Unidos-2020.jpg",Unidos (2020)
-https://dl.dropbox.com/s/t1a3k747pq93w3b/Unidos.2020.mp4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vXF8CNj/up.jpg",Up: Una aventura de altura
 https://archive.org/download/00200_20190814/00200.avi
 #EXTINF:-1  tvg-logo="https://fanart.tv/fanart/movies/7518/movieposter/over-the-hedge-5e5c385f7ca4c.jpg",Vecinos invasores
